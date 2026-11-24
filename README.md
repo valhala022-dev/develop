@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0891b2,100:00f0ff&height=220&section=header&text=IDENTITY%20SCAN%20COMPLETE&fontSize=38&fontColor=00f0ff&fontAlignY=38&desc=//%20HOLOGRAM%20DIGITAL%20PROFILE%20//&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Banner"/>
 
-<img src="https://raw.githubusercontent.com/jamu-gg/jamu-gg/main/assets/hologram.png" width="85%" alt="Hologram Digital Profile Scan"/>
+<!-- <img src="https://raw.githubusercontent.com/jamu-gg/jamu-gg/main/assets/hologram.png" width="85%" alt="Hologram Digital Profile Scan"/> -->
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 # ⟦  ⟧
 
-### `Software Engineer` **//** `AI Enthusiast` **//** `Mobile Developer`
+### `Cyber security` **//** `Software Engineer` **//** `Mobile Developer`
 
 ![Location](https://img.shields.io/badge/📍_LOCATION-Earth-00f0ff?style=flat-square&labelColor=020617)
 ![Status](https://img.shields.io/badge/⚡_STATUS-Building_the_Future-39ff14?style=flat-square&labelColor=020617)
