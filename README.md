@@ -25,7 +25,7 @@
 <!-- ================= PROFILE HEADER ================= -->
 <div align="center">
 
-# ⟦ PRAHARA ⟧
+# ⟦  ⟧
 
 ### `Software Engineer` **//** `AI Enthusiast` **//** `Mobile Developer`
 
@@ -44,16 +44,16 @@
 
 ```yaml
 SYSTEM_INFO:
-  subject     : Prahara
+  subject     : rec0001way
   role        : Software Engineer / AI Enthusiast / Mobile Developer
   affiliation : Siber School
   location    : Earth
   status      : ONLINE
-  Quote       : "I'm not single, I'm just an open project waiting for right contributor to submit a clean pull request"
+  Quote       : "FABER EST SUAE QUISQUE FORTUNAE(Setiap orang adalah pembuat nasibnya sendiri)"
 
 RESEARCH_NODE:
-  primary     : Machine Learning & Mobile Development
-  direction   : Membangun aplikasi yang cerdas dan berdampak
+  primary     : Cyber Security, Machine Learning & Mobile Development
+  direction   : Winning a competition and making myself proud
   theme       : Dark Mode Only
 
 BUILD_LOG:
@@ -146,7 +146,7 @@ BUILD_LOG:
 ## `>_ INITIATE CONNECTION`
 
 ```bash
-$ ping jamu-gg --secure
+$ ping develop --secure
 > Establishing encrypted channel...
 > Identity: [REDACTED]
 > Connection ready. Available protocols below ↓
